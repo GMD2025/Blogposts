@@ -17,5 +17,17 @@ But we shall not be conserned. We know for sure we would draw mindblowing visual
 Third of all, organization. Setting up simplified Jira and writing down the scope. I think it is a fun way of using Jira - inserting it as interactive Figma elements. Just makes it better, I hope you get the jist.
 
 Otherwise, we see what our steps are to the goal, and we are marching!
-Short summary of things done:
+Short summary of things done about coding in Unity itself:
+ - Made an UI for selecting the buildings to building
+ - Made a resource system - some object just add gold or whatever to the bank
+ - Made mage tower with animations
+ - Made Swordsman AI
+You can see all the tasks completed in the image attached!
+
+Overall, we are meticulously trying to make things as scalable as possible. We aren't up with half-measure. If we were implementing the highlight, we implement it right.
+Cause what if we might wanna have a 2 x 2 building later? or 3 x 1? We have to dynamically highlight the area depending on the size of the building.  
+And so on :)
+
+We are excited of what seeks us next!
 []
+
